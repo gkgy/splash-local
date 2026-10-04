@@ -1,0 +1,13 @@
+.DS_Store
+build/
+*.app/
+*.zip
+__pycache__/
+*.pyc
+.env*
+settings.json
+preferences.json
+server.log
+*.gguf
+*.safetensors
+*.before-*
