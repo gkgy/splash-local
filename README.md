@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 # Splash Local
 
 为 Apple Silicon Mac 制作的原生 Splash 桌面应用，使用 Cocoa + WKWebView 连接本机 Splash 服务。独立运行，不依赖 Bionic。本项目是个人制作的客户端，并非 Inco AI 官方应用。
